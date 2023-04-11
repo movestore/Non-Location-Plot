@@ -1,4 +1,4 @@
-# Plot Non-Location Data*
+# Plot Non-Location Data
 
 MoveApps
 
